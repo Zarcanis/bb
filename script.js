@@ -12,7 +12,7 @@ Nous devons nous retrouver, loin des *regard*s curieux, dans le sanctuaire oubli
 
 Le silence et la discrétion sont de mise, car des forces obscures guettent à l’hori*z*on et nous devons demeurer invisibles. L'avenir de notre fraternité repose sur notre *art* à déjouer les plans du Mal*i*n. Viens sans hésitation, car le temps presse et chaque seconde qui s'écoule rapproche le monde de l'ombre éternelle.
 
-Que la lumière de notre savoir éclaire ton chemin et te <b>g</b>uide vers n*o*tre réunion secrète.
+Que la lumière de notre savoir éclaire ton chemin et te *g*uide vers n*o*tre réunion secrète.
 
 Avec espoir et détermination,
 Ta conne-sœur 
