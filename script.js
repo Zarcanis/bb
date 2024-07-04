@@ -2,9 +2,9 @@ const textElement = document.getElementById('text');
 const text = `
 *** DOCUMENT CONFIDENTIEL ***
 
-Date: 04-07-2024
-De: Conne-sœur Compagnonne
-À: Initié(e)
+Date: 04-07-30##
+De: Conne-sœur S.L.
+À: Initié
 
 Sous l'éclat ténu de la lune décroissante, alors que les ombres dansent et chuchotent leurs secrets, je t'écris cette missive avec une urgence que seuls les cœurs initiés peuvent comprendre. Les murmures des anciens se sont intensifiés, d’étranges phénomènes dont l'ampleur menace notre fragile équilibre semblent se préparer.
 
@@ -16,7 +16,7 @@ Que la lumière de notre savoir éclaire ton chemin et te guide vers notre réun
 
 
 Avec espoir et détermination,
-Ta conne-sœur compagnonne
+Ta conne-sœur 
 `;
 
 let index = 0;
