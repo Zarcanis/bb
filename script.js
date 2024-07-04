@@ -1,6 +1,6 @@
 const textElement = document.getElementById('text');
 const text = `
-§§§ DOCUMENT CONFIDENTIEL §§§
+### DOCUMENT CONFIDENTIEL ###
 
 Date: 04-07-30##
 De: Conne-sœur S.L.
