@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: green;
+    font-family: monospace;
+}
+
+#terminal {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#text {
+    white-space: pre-wrap;
+}
