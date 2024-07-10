@@ -6,6 +6,8 @@ Date: 04-07-30##
 De: Conne-sœur S.L.
 À: Initié
 
+Cher con-frère,
+
 Sous l'éclat ténu de la lune décroissante, alors que les ombres dansent et chuchotent leurs secrets, je t'écris cette missive avec une urgence que seuls les cœurs initiés peuvent comprendre. Les murmures des anciens se sont intensifiés, d’étranges phénomènes dont l'ampleur menace notre fragile équilibre semblent se préparer.
 
 Nous devons nous retrouver, loin des *regard*s curieux, dans le sanctuaire oublié de la Crypte Étoilée, au premier soupir du crépuscule, lorsque l'astre du jour cèd*e* sa place aux étoiles bienveillantes au *z*énith. Apporte avec toi les outils sa*c*rés et les symboles de notre ordre ; ils seront nos guides à travers le labyrint*he* des ténèbres. 
@@ -16,6 +18,8 @@ Que la lumière de notre savoir éclaire ton chemin et te *g*uide vers n*o*tre r
 
 Avec espoir et détermination,
 Ta conne-sœur 
+
+P.S. voici la clé: https://zarcanis.gihub.io/fm/XXXXXXXXX
 `;
 
 let index = 0;
