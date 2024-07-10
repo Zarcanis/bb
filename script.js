@@ -17,9 +17,10 @@ Le silence et la discrétion sont de mise, car des forces obscures guettent à l
 Que la lumière de notre savoir éclaire ton chemin et te *g*uide vers n*o*tre réunion secrète.
 
 Avec espoir et détermination,
+
 Ta conne-sœur 
 
-P.S. voici la clé: https://zarcanis.gihub.io/fm/XXXXXXXXX
+P.S. voici la clé: https://bit.ly/XXXXXXXXX
 `;
 
 let index = 0;
